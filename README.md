@@ -18,7 +18,7 @@ mensagem de elogio, gerando um boost no ego - dessa forma, será um combustível
 baixo consumo.</p>
 
 <p><b>(ELIF)</b> Se o consumidor mora em apartamento ou casa e consome menos de 25m³, receberá 
-uma mensagem neutra, causando sentimento de dúvida e inadequação, fazendo com que 
+uma mensagem neutra, causando sentimento de dúvida e inadequação, fazendo com que  
 aja um esforço maior para a economia mensal.</p>
 
 <p><b>(ELSE)</b> Por fim, se o consumo for maior que 25m³, uma mensagem de alerta é mostrada, gerando assim 
