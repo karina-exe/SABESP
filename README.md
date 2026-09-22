@@ -1,8 +1,8 @@
-## ❤️ SABESP-サベスヒ-: Programa de Conscientização❤️
+## ❤️SABESP-サベスヒ-: Programa de Conscientização❤️
 
 <img src="https://iili.io/nuMgtjI.gif" alt="Banner" width="100%">
 
-O programa foi desenvolvido com o intuito de conscientizar através de PSYOP (Psychological Operation) a população acerca do 
+O programa foi desenvolvido com o intuito de conscientizar através de PSYOPs (Psychological Operations) a população acerca do 
 consumo mensal de água. O sistema é composto por duas principais características:
 
 - A conversão do metro cúbico (m³) para litro (ℓ)
@@ -25,7 +25,7 @@ aja um esforço maior para a economia mensal.</p>
 pânico emocional, o que leva o consumidor questionar a própria capacidade como cidadão. Com isso, o baque do desespero 
 causará uma conscientização forçada.</p>
 
-# ❤️Instruções de uso ❤️
+# ❤️Instruções de uso❤️
 <p><b>Desktop:</b></p>
 
 - Fazer o download do arquivo do script e abri-lo em qualquer IDE (VS Code, Pycharm, etc) ou no Python.
@@ -37,7 +37,7 @@ causará uma conscientização forçada.</p>
 
 Obs: Para fazer o download do script, basta abrir "app.py" e clicar em "download raw file".
 
- # ❤️ Ferramentas utilizadas ❤️
+ # ❤️Ferramentas utilizadas❤️
 
 
 - <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/python/plain.svg?color=%23E22222">
