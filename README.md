@@ -40,11 +40,11 @@ Obs: Para fazer o download do script, basta abrir "app.py" e clicar em "download
  # ❤️Ferramentas utilizadas❤️
 
 
-- <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/python/plain.svg?color=%23E22222">
-- <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/pycharm/plain.svg?color=%23E22222">
-- <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23E22222">
-- <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23E22222">  
-- <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/photoshop/plain.svg?color=%23E22222">
+- <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/python/plain.svg?color=%23FF5662">
+- <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/pycharm/plain.svg?color=%23FF5662">
+- <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23FF5662">
+- <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23FF5662">  
+- <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/photoshop/plain.svg?color=%23FF5662">
 
 
 
