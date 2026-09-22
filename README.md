@@ -1,7 +1,4 @@
-## 🖤SABESP-サベスヒ-: Programa de Conscientização🖤
-
-<img src="https://64.media.tumblr.com/426b78cbcc949bd71e649f1cabd950e4/604e09c18f43e9c1-67/s540x810/18c77fd839d1ecc88768f02a40e7d29935f6e3c1.gif" alt="Banner" width="50%">
-
+## 🖤 <a href="https://iili.io/nuM5Map.gif">SABESP-サベスヒ-: Programa de Conscientização</a> 🖤 
 O programa foi desenvolvido com o intuito de conscientizar através de PSYOP (Psychological Operation) a população acerca do 
 consumo mensal de água. O sistema é composto por duas principais características:
 
