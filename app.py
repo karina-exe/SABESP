@@ -9,7 +9,7 @@ print("Desse modo, a SABESP-サベスピ- tem como objetivo incentivar o c
 tipo_de_imovel = input("₊˚✩Digite o tipo de imóvel (casa, apartamento ou comercial): ")
 consumo_mensal = float(input("₊˚✩Digite o consumo mensal em metros cúbicos (m³): "))
 
-# Processamento (conversão de m³ em litros) e saída de informações através das condicionais ♡
+# Processamento (conversão de m³ em litros) e saída de informações através das condicionais. ♡
 
 def volume():
     return consumo_mensal * 1000
